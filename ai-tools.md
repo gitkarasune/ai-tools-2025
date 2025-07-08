@@ -74,3 +74,13 @@ Welcome to **AI Tools 2025** — a curated list of the most powerful and practic
 | 50  | Rask.ai                | [rask.ai](https://rask.ai)                   | Video Dubbing & Translate |
 
 
+---
+
+## 🙌 Contributing
+
+Want to help grow the list? Follow these steps:
+
+1. **Fork this repository**
+2. Create a new branch:
+   ```bash
+   git checkout -b your-feature-name
