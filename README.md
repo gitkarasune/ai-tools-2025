@@ -4,10 +4,10 @@
 Want to help grow the list? Follow these steps:
 
 1. **Fork this repository**
-2. Create a new branch:
+2. Create a new branch
    ```bash
    git checkout -b your-feature-name
-   ```
+   
 
 ---
 
