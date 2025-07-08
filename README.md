@@ -4,8 +4,7 @@
 Want to help grow the list? Follow these steps:
 
 1. **Fork this repository**
-2. Create a new branch
-   ```bash
+2. **Create a new branch**
    git checkout -b your-feature-name
    
 
